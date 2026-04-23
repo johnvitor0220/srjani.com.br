@@ -69,7 +69,7 @@ import { CheckLineIcon, CircleCheckBigIcon, ClipboardCheckIcon, ClipboardIcon, D
                     </div>
                     <span class="text-white">Hidráulica</span>
                 </div>
-                <div
+                <!-- <div
                     class="flex items-center gap-3 bg-white/10 dark:bg-black/20 p-3 rounded-lg hover:bg-white/20 transition-colors cursor-default backdrop-blur-sm shadow-md border border-white/10">
                     <div class="bg-primary p-2 rounded text-custom-dark-green shadow-sm">
                         <span class="material-icons-outlined font-bold">
@@ -77,7 +77,7 @@ import { CheckLineIcon, CircleCheckBigIcon, ClipboardCheckIcon, ClipboardIcon, D
                         </span>
                     </div>
                     <span class="text-white">Montagem de móveis</span>
-                </div>
+                </div> -->
                 <div
                     class="flex items-center gap-3 bg-white/10 dark:bg-black/20 p-3 rounded-lg hover:bg-white/20 transition-colors cursor-default backdrop-blur-sm shadow-md border border-white/10">
                     <div class="bg-primary p-2 rounded text-custom-dark-green shadow-sm">
