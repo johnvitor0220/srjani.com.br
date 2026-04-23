@@ -91,9 +91,12 @@ import { CheckLineIcon, CircleCheckBigIcon, ClipboardCheckIcon, ClipboardIcon, D
             </section>
 
             <section class="mb-20">
-                <div>
-                    <p class="text-2xl md:text-3xl italic font-display text-white/90">
+                <div class="text-center">
+                    <p class="text-2xl md:text-3xl font-display text-white/90">
                         Técnico em manutenção residencial
+                    </p>
+                    <p class="text-2xl md:text-3xl font-display text-white/90 mt-4">
+                        Ponta Grossa, Paraná
                     </p>
                 </div>
             </section>
